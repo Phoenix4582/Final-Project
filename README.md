@@ -1,6 +1,7 @@
 # Final Project
 UoB MSc Final Project. Only contains code backbones for neural network models. Datasets and weights unavailable due to size and quantity. **_May not run directly due to the loss of dataset._**
 
+**_You may go to the [link](https://drive.google.com/drive/folders/1oVcwt0os9-NSWklBqItI66Hp4AQ6OqUZ?usp=sharing) for cloning the big files containing datasets, trained weights and some of the results. Please read the instructions as to the location of different files._**
 # Bibilography
 The project implemented the examples and code from the following repositories:
 
