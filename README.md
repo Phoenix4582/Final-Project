@@ -1,5 +1,5 @@
 # Final Project
-UoB MSc Final Project. Only contains code backbones for neural network models. Datasets and weights unavailable due to size and quantity. **_May not run directly due to the loss of dataset_**
+UoB MSc Final Project. Only contains code backbones for neural network models. Datasets and weights unavailable due to size and quantity. **_May not run directly due to the loss of dataset._**
 
 # Bibilography
 The project implemented the examples and code from the following repositories:
