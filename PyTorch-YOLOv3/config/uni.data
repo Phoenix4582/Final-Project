@@ -1,0 +1,4 @@
+classes= 1
+train=data/uni/train.txt
+valid=data/uni/valid.txt
+names=data/uni/classes.names

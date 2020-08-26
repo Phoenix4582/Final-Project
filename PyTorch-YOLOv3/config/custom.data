@@ -1,0 +1,6 @@
+classes= 1
+train=data/custom/train.txt
+valid=data/custom/valid.txt
+train_motion=data/custom/train_motion.txt
+val_motion=data/custom/val_motion.txt
+names=data/custom/classes.names

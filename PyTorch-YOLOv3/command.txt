@@ -1,0 +1,1 @@
+python .\detect.py --image_folder=D:\Learning\Postgraduate\Final_Project\Workshop\OFlow\Sorted\test\Frames --model_def=config/yolov3-1cls.cfg  --weights_path=checkpoints/yolov3_preFusion_ckpt_50.pth --class_path=data/custom/classes.names
